@@ -10,12 +10,10 @@ Home
 About Us
 Shop
 Blog
-Contact Us
 
 aria-label = Search
 <ion-icon name="search-outline"></ion-icon>
 
-Reservation
 
 aria-label = Toggle Menu
 
@@ -114,8 +112,8 @@ Chicken
 Fried Chicken Unlimited
 
 Price:
-$49.00
-$69.00
+₹149.00
+₹172.00
 
 
 alt = Burger King Whopper
@@ -126,8 +124,8 @@ Noddles
  
 Burger King Whopper
 
-$29.00 
-$39.00
+₹90.00 
+₹100.00
 
 alt = White Castle Pizzas
 
@@ -136,8 +134,8 @@ Pizzas
 
 White Castle Pizzas
 
-$49.00 
-$69.00
+₹150.00 
+₹200.00
 
 alt = Bell Burrito Supreme
 
@@ -146,8 +144,8 @@ Burrito
  
 Bell Burrito Supreme
 
-$59.00
-$69.00
+₹160.00
+₹200.00
 
 alt = Kung Pao Chicken BBQ
 
@@ -156,8 +154,8 @@ Nuggets
 
 Kung Pao Chicken BBQ
 
-$49.00
-$69.00
+₹150.00
+₹157.00
 
 alt = Wendy's Chicken
 
@@ -166,8 +164,8 @@ Chicken
 
 Wendy's Chicken
 
-$49.00 
-$69.00
+₹150.00 
+₹172.00
 
 
 
@@ -208,24 +206,25 @@ Our Customers Reviews
 Food is any substance consumed to provide nutritional
 support for an organism.
 
-alt = Robert William
+alt = Harish
 
-Robert William
+Harish
 
-CEO Kingfisher
+CEO Sunil
+
 
 "I would be lost without restaurant. I would like to personally thank you for your outstanding product."
 
 <ion-icon name="star"></ion-icon>
 
-Thomas Josef
 
-CEO Getforce
+Abhishek
 
-Charles Richard
+CEO Dharmendra
 
-CEO Angela
+Aman
 
+CEO Sahil
 
 
 #---------- BANNER ----------#
@@ -244,7 +243,7 @@ Delicious Pizza
 
 50% off Now
 
-American Burgers
+Indian Burgers
 
 50% off Now
 
@@ -267,10 +266,10 @@ alt = What Do You Think About Cheese Pizza Recipes?
 Pizza
 
 <ion-icon name="calendar-outline"></ion-icon>
-Jan 01 2022
+Jan 01 2025
 
 <ion-icon name="person-outline"></ion-icon>
-Jonathan Smith
+Anas
 
 What Do You Think About Cheese Pizza Recipes?
 
